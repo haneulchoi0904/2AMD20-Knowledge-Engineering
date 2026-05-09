@@ -1,0 +1,111 @@
+BUURTCODE,BUURTNAAM,accident_count,injury_count,fatal_count,property_damage_only_count
+111,Binnenstad,89,18,0,71
+112,Bergen,26,7,0,19
+113,Witte Dame,25,8,0,17
+114,Fellenoord,35,7,0,28
+115,TU-terrein,34,15,0,19
+211,Irisbuurt,38,7,0,31
+212,Rochusbuurt,5,1,0,4
+213,Elzent-Noord,9,5,0,4
+214,Tuindorp,11,1,0,10
+215,Joriskwartier,7,2,1,4
+216,Bloemenplein,15,3,0,12
+217,Looiakkers,10,0,0,10
+218,Elzent-Zuid,3,2,0,1
+221,Kerstroosplein,10,1,0,9
+222,Gerardusplein,10,4,0,6
+223,Genneperzijde,15,4,0,11
+224,Roosten,7,2,0,5
+225,Eikenburg,11,5,0,6
+226,Sportpark Aalsterweg,4,1,0,3
+230,Puttense Dreef,10,5,0,5
+232,Burghplan,18,2,0,16
+233,Sintenbuurt,3,0,0,3
+234,Tivoli,2,0,0,2
+235,Gijzenrooi,1,0,0,1
+236,Nieuwe Erven,7,1,0,6
+237,Kruidenbuurt,5,1,0,4
+238,Schuttersbosch,3,1,0,2
+240,Riel,1,0,0,1
+311,Villapark,27,6,0,21
+312,Lakerlopen,16,2,0,14
+321,Doornakkers-West,38,7,1,30
+322,Doornakkers-Oost,6,2,0,4
+328,Tongelresche Akkers,2,1,0,1
+333,"Muschberg, Geestenberg",8,1,0,7
+334,Urkhoven,1,0,0,1
+335,'t Hofke,16,4,0,12
+336,Karpen,5,2,0,3
+337,Koudenhoven,2,0,0,2
+410,Limbeek-Zuid,5,2,0,3
+411,Limbeek-Noord,12,2,0,10
+412,Hemelrijken,37,10,0,27
+413,Gildebuurt,37,5,0,32
+414,Woenselse Watermolen,7,0,1,6
+421,Woensel-West,32,6,0,26
+422,Kronehoef,21,3,0,18
+423,Barrier,30,3,0,27
+424,Mensfort,19,3,0,16
+425,Rapenland,38,4,0,34
+426,Vredeoord,12,2,0,10
+431,Generalenbuurt,18,7,0,11
+432,Oude Toren,12,2,0,10
+433,Hondsheuvels,14,3,0,11
+434,Oude Gracht-West,17,4,0,13
+435,Oude Gracht-Oost,10,2,0,8
+436,Eckartdal,3,0,0,3
+511,Driehoeksbos,22,8,0,14
+512,Prinsejagt,22,5,0,17
+513,Jagershoef,8,0,0,8
+514,'t Hool,7,2,0,5
+515,Winkelcentrum,8,2,0,6
+516,Vlokhoven,13,5,0,8
+520,Kapelbeemd,2,0,0,2
+521,Kerkdorp Acht,7,2,0,5
+522,Achtse Barrier-Gunterslaer,36,9,0,27
+523,Achtse Barrier-Spaaihoef,18,4,0,14
+524,Achtse Barrier-Hoeven,14,1,0,13
+531,Woenselse Heide,11,0,0,11
+532,Tempel,19,3,0,16
+533,Blixembosch-West,5,3,0,2
+534,Blixembosch-Oost,21,3,0,18
+541,Eckart,20,3,0,17
+542,Luytelaer,11,2,0,9
+543,Vaartbroek,14,3,0,11
+544,Heesterakker,7,3,0,4
+545,Esp,7,2,0,5
+546,Bokt,3,0,0,3
+611,"Eliasterrein, Vonderkwartier",21,3,0,18
+612,Philipsdorp,24,2,0,22
+613,Engelsbergen,11,2,0,9
+614,Schouwbroek,12,4,0,8
+615,Schoot,21,2,0,19
+616,Strijp S,19,1,0,18
+621,Hurk,39,7,1,31
+622,Het Ven,30,9,0,21
+623,Lievendaal,4,2,0,2
+624,Drents Dorp,10,2,0,8
+625,Zwaanstraat,20,3,0,17
+626,Wielewaal,4,3,0,1
+628,Mispelhoef,26,10,0,16
+631,BeA2,2,1,0,1
+632,Meerbos,2,1,0,1
+633,Grasrijk,22,3,0,19
+634,Zandrijk,7,1,0,6
+635,Waterrijk,12,2,0,10
+636,Park Forum,4,3,0,1
+637,Flight Forum,14,5,0,9
+639,Bosrijk,2,0,0,2
+640,Meerrijk,3,0,0,3
+711,Schrijversbuurt,11,4,0,7
+712,Oude Spoorbaan,16,1,0,15
+713,Hagenkamp,10,2,0,8
+721,Genderdal,21,5,0,16
+722,Blaarthem,17,2,0,15
+723,Rapelenburg,7,3,0,4
+724,Bennekel-Oost,16,3,0,13
+725,"Bennekel-West, Gagelbosch",6,0,0,6
+726,Gennep,10,0,0,10
+731,Genderbeemd,37,2,0,35
+732,Hanevoet,24,5,0,19
+733,Ooievaarsnest,3,2,0,1
