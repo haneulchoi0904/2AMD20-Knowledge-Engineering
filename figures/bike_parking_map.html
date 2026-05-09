@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_deb2cf7aec68c247deb1a1ae2c5ad28b {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_deb2cf7aec68c247deb1a1ae2c5ad28b" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_deb2cf7aec68c247deb1a1ae2c5ad28b = L.map(
+                "map_deb2cf7aec68c247deb1a1ae2c5ad28b",
+                {
+                    center: [51.44409715285714, 5.478578304285715],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 13,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_f84d06fbf780e4b19bfb290fb5e6bf66 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_f84d06fbf780e4b19bfb290fb5e6bf66.addTo(map_deb2cf7aec68c247deb1a1ae2c5ad28b);
+        
+    
+            var marker_1424442af665ef6a1df5604d076159a0 = L.marker(
+                [51.46978532, 5.47328846],
+                {
+}
+            ).addTo(map_deb2cf7aec68c247deb1a1ae2c5ad28b);
+        
+    
+            var icon_b58167adf16805d478139c624ab115ba = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_dc6ffe3404461844f195a933af7bc944 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7a875f66606b0dc91825c1109aa6e639 = $(`<div id="html_7a875f66606b0dc91825c1109aa6e639" style="width: 100.0%; height: 100.0%;">     <b>Fietsenstalling Winkelcentrum WoensXL</b><br>     Type: Gratis fietsenstalling met toezicht<br>     Address: Winkelcentrum Woensel 500-510, 5625 AA Eindhoven<br>     Coordinates: (51.4698, 5.4733)     </div>`)[0];
+                popup_dc6ffe3404461844f195a933af7bc944.setContent(html_7a875f66606b0dc91825c1109aa6e639);
+            
+        
+
+        marker_1424442af665ef6a1df5604d076159a0.bindPopup(popup_dc6ffe3404461844f195a933af7bc944)
+        ;
+
+        
+    
+    
+            marker_1424442af665ef6a1df5604d076159a0.bindTooltip(
+                `<div>
+                     Fietsenstalling Winkelcentrum WoensXL
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_1424442af665ef6a1df5604d076159a0.setIcon(icon_b58167adf16805d478139c624ab115ba);
+            
+    
+            var marker_f12762b7fac4e7dd4efee5e5fb3fe3d5 = L.marker(
+                [51.436996, 5.481647],
+                {
+}
+            ).addTo(map_deb2cf7aec68c247deb1a1ae2c5ad28b);
+        
+    
+            var icon_8cca437ed30199e2019cca75f534b2c6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_bcf026cbe4d8503740eb4e9d2ad5177c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1ae3985e692672467f85bdcae1ea501e = $(`<div id="html_1ae3985e692672467f85bdcae1ea501e" style="width: 100.0%; height: 100.0%;">     <b>Pop-up fietsenstalling Mercado, tijdelijke stalling zonder toezicht | 14 juni t/m 13 juli 2024</b><br>     Type: Gratis fietsenstalling met toezicht<br>     Address: Smalle Haven 109, 5611 EH Eindhoven<br>     Coordinates: (51.4370, 5.4816)     </div>`)[0];
+                popup_bcf026cbe4d8503740eb4e9d2ad5177c.setContent(html_1ae3985e692672467f85bdcae1ea501e);
+            
+        
+
+        marker_f12762b7fac4e7dd4efee5e5fb3fe3d5.bindPopup(popup_bcf026cbe4d8503740eb4e9d2ad5177c)
+        ;
+
+        
+    
+    
+            marker_f12762b7fac4e7dd4efee5e5fb3fe3d5.bindTooltip(
+                `<div>
+                     Pop-up fietsenstalling Mercado, tijdelijke stalling zonder toezicht | 14 juni t/m 13 juli 2024
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_f12762b7fac4e7dd4efee5e5fb3fe3d5.setIcon(icon_8cca437ed30199e2019cca75f534b2c6);
+            
+    
+            var marker_93286fc22269491299b98bfd73a6fc37 = L.marker(
+                [51.44333305, 5.47830684],
+                {
+}
+            ).addTo(map_deb2cf7aec68c247deb1a1ae2c5ad28b);
+        
+    
+            var icon_e5c488f3d03ada78d4da354927ff7511 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ff2cb000df0ef301da4852db786d2177 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0c8a554b1c5f77f32f4a9a0d1e088f2a = $(`<div id="html_0c8a554b1c5f77f32f4a9a0d1e088f2a" style="width: 100.0%; height: 100.0%;">     <b>Fietsenstalling NS-station noordzijde</b><br>     Type: Bewaakte NS stalling (tegen betaling)<br>     Address: Neckerspoel, 5611 AD Eindhoven<br>     Coordinates: (51.4433, 5.4783)     </div>`)[0];
+                popup_ff2cb000df0ef301da4852db786d2177.setContent(html_0c8a554b1c5f77f32f4a9a0d1e088f2a);
+            
+        
+
+        marker_93286fc22269491299b98bfd73a6fc37.bindPopup(popup_ff2cb000df0ef301da4852db786d2177)
+        ;
+
+        
+    
+    
+            marker_93286fc22269491299b98bfd73a6fc37.bindTooltip(
+                `<div>
+                     Fietsenstalling NS-station noordzijde
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_93286fc22269491299b98bfd73a6fc37.setIcon(icon_e5c488f3d03ada78d4da354927ff7511);
+            
+    
+            var marker_45c207509f853ec7a4247d2a02286779 = L.marker(
+                [51.43785041, 5.48045823],
+                {
+}
+            ).addTo(map_deb2cf7aec68c247deb1a1ae2c5ad28b);
+        
+    
+            var icon_0145cd141bc4b0b0aa63a3f86f4f3002 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5f73e436e09d65dd0a207252d5fa7187 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_601b231614377da640908b3ffa9ba196 = $(`<div id="html_601b231614377da640908b3ffa9ba196" style="width: 100.0%; height: 100.0%;">     <b>Fietsenstalling Heuvel</b><br>     Type: Gratis fietsenstalling met toezicht<br>     Address: Ten Hagestraat 14, 5611 EJ Eindhoven<br>     Coordinates: (51.4379, 5.4805)     </div>`)[0];
+                popup_5f73e436e09d65dd0a207252d5fa7187.setContent(html_601b231614377da640908b3ffa9ba196);
+            
+        
+
+        marker_45c207509f853ec7a4247d2a02286779.bindPopup(popup_5f73e436e09d65dd0a207252d5fa7187)
+        ;
+
+        
+    
+    
+            marker_45c207509f853ec7a4247d2a02286779.bindTooltip(
+                `<div>
+                     Fietsenstalling Heuvel
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_45c207509f853ec7a4247d2a02286779.setIcon(icon_0145cd141bc4b0b0aa63a3f86f4f3002);
+            
+    
+            var marker_202238919033a12845290a30f9d33b8f = L.marker(
+                [51.44122886, 5.47707071],
+                {
+}
+            ).addTo(map_deb2cf7aec68c247deb1a1ae2c5ad28b);
+        
+    
+            var icon_58134c03acb5994ac64cb666cdc5206d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_95f01915ddf9d3e19a5b3fd215633869 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_67f027c712dda2f4528800f2d2ff6538 = $(`<div id="html_67f027c712dda2f4528800f2d2ff6538" style="width: 100.0%; height: 100.0%;">     <b>Fietsenstalling 18 Septemberplein</b><br>     Type: Gratis fietsenstalling met toezicht<br>     Address: 18 Septemberplein, 5611 AK, Eindhoven<br>     Coordinates: (51.4412, 5.4771)     </div>`)[0];
+                popup_95f01915ddf9d3e19a5b3fd215633869.setContent(html_67f027c712dda2f4528800f2d2ff6538);
+            
+        
+
+        marker_202238919033a12845290a30f9d33b8f.bindPopup(popup_95f01915ddf9d3e19a5b3fd215633869)
+        ;
+
+        
+    
+    
+            marker_202238919033a12845290a30f9d33b8f.bindTooltip(
+                `<div>
+                     Fietsenstalling 18 Septemberplein
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_202238919033a12845290a30f9d33b8f.setIcon(icon_58134c03acb5994ac64cb666cdc5206d);
+            
+    
+            var marker_c2ff80ef783c25e113330133013dbb4e = L.marker(
+                [51.44242743, 5.48039389],
+                {
+}
+            ).addTo(map_deb2cf7aec68c247deb1a1ae2c5ad28b);
+        
+    
+            var icon_824a1d9c371fe23518c7ddb367956daa = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6aad2388076964f32798fb51ff548b74 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_77d09fd5f2f039b0fcdcdf231fa43143 = $(`<div id="html_77d09fd5f2f039b0fcdcdf231fa43143" style="width: 100.0%; height: 100.0%;">     <b>Fietsenstalling NS-station zuidzijde</b><br>     Type: Bewaakte NS stalling (tegen betaling)<br>     Address: Stationsplein 22, 5611 AC Eindhoven<br>     Coordinates: (51.4424, 5.4804)     </div>`)[0];
+                popup_6aad2388076964f32798fb51ff548b74.setContent(html_77d09fd5f2f039b0fcdcdf231fa43143);
+            
+        
+
+        marker_c2ff80ef783c25e113330133013dbb4e.bindPopup(popup_6aad2388076964f32798fb51ff548b74)
+        ;
+
+        
+    
+    
+            marker_c2ff80ef783c25e113330133013dbb4e.bindTooltip(
+                `<div>
+                     Fietsenstalling NS-station zuidzijde
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_c2ff80ef783c25e113330133013dbb4e.setIcon(icon_824a1d9c371fe23518c7ddb367956daa);
+            
+    
+            var marker_d5fdc4eb42913897ec80c47d49aac0ed = L.marker(
+                [51.437059, 5.478883],
+                {
+}
+            ).addTo(map_deb2cf7aec68c247deb1a1ae2c5ad28b);
+        
+    
+            var icon_d7d6458c7ff262c75ce53db9157f2a63 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_07c2635d53e379260022507b88baf295 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9af3b055fb93ea79d46936c8e2dd7ac2 = $(`<div id="html_9af3b055fb93ea79d46936c8e2dd7ac2" style="width: 100.0%; height: 100.0%;">     <b>Pop-up fietsenstalling Kerkstraat, tijdelijke stalling zonder toezicht | 14 juni t/m 13 juli 2024</b><br>     Type: Gratis fietsenstalling met toezicht<br>     Address: Kerkstraat, 5611 GH Eindhoven<br>     Coordinates: (51.4371, 5.4789)     </div>`)[0];
+                popup_07c2635d53e379260022507b88baf295.setContent(html_9af3b055fb93ea79d46936c8e2dd7ac2);
+            
+        
+
+        marker_d5fdc4eb42913897ec80c47d49aac0ed.bindPopup(popup_07c2635d53e379260022507b88baf295)
+        ;
+
+        
+    
+    
+            marker_d5fdc4eb42913897ec80c47d49aac0ed.bindTooltip(
+                `<div>
+                     Pop-up fietsenstalling Kerkstraat, tijdelijke stalling zonder toezicht | 14 juni t/m 13 juli 2024
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d5fdc4eb42913897ec80c47d49aac0ed.setIcon(icon_d7d6458c7ff262c75ce53db9157f2a63);
+            
+</script>
+</html>
