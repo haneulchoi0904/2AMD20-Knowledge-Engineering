@@ -15,7 +15,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240082965,2024,injury,Flank,,70.0,Aalsterweg,5.485772814179191,51.424327192250686,216,Bloemenplein
 20240043980,2024,property_damage_only,Frontaal,Rechte weg,50.0,Oirschotsedijk,5.423373197226596,51.4631890055948,,
 20240102576,2024,property_damage_only,Onbekend,"Kruispunt, 3 takken",30.0,Lichtenberg,5.446273718779391,51.41599881518917,732,Hanevoet
-20230054332,2023,property_damage_only,Onbekend,Rechte weg,50.0,Vestdijk,5.481292413633616,51.43926336236037,111,Binnenstad
+20230054332,2023,property_damage_only,Onbekend,Rechte weg,50.0,Vestdijk,5.481292413633616,51.439263362360364,111,Binnenstad
 20230041004,2023,property_damage_only,Frontaal,Bocht,30.0,Craterlaan,5.497284555889239,51.46751695884383,542,Luytelaer
 20220229054,2022,injury,Onbekend,"Kruispunt, 4 takken",50.0,Jan Smitzlaan,5.479632560467204,51.43160348648138,213,Elzent-Noord
 20220227740,2022,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Firmamentlaan,5.501613174058317,51.46752516072399,542,Luytelaer
@@ -46,9 +46,9 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240092840,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Hoogstraat,5.472365037004432,51.434622263510846,712,Oude Spoorbaan
 20240073395,2024,property_damage_only,Flank,Rechte weg,70.0,Karel de Grotelaan,5.448216191917798,51.42112617996599,721,Genderdal
 20240073425,2024,property_damage_only,Frontaal,Rechte weg,30.0,Oirschotsedijk,5.4221753295798205,51.46246480163363,,
-20240074169,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Stadionplein,5.469367693467912,51.44166002714597,612,Philipsdorp
+20240074169,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Stadionplein,5.469367693467912,51.441660027145964,612,Philipsdorp
 20240043713,2024,property_damage_only,Flank,Rechte weg,30.0,Frederiklaan,5.458985808332799,51.442619391424394,615,Schoot
-20230042090,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Heerbaan,5.524096666412042,51.44050824947277,333,"Muschberg, Geestenberg"
+20230042090,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Heerbaan,5.524096666412042,51.440508249472764,333,"Muschberg, Geestenberg"
 20230051183,2023,property_damage_only,Flank,Rotonde,50.0,Keizer Karel V Singel,5.4603227254160025,51.42810443953159,722,Blaarthem
 20220228833,2022,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Grassavanne,5.4095094384884,51.439937366545095,633,Grasrijk
 20220228873,2022,property_damage_only,Flank,"Kruispunt, 4 takken",70.0,Karel de Grotelaan,5.461225789505105,51.42898126232735,712,Oude Spoorbaan
@@ -99,7 +99,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20230063204,2023,injury,Flank,"Kruispunt, 4 takken",50.0,Vonderweg,5.469004599457172,51.43861839848666,611,"Eliasterrein, Vonderkwartier"
 20230040961,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Noord Brabantlaan,5.435319270240665,51.44032119082406,623,Lievendaal
 20240016334,2024,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Doornburg,5.438491046054959,51.421828059299045,731,Genderbeemd
-20240156343,2024,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Veluwelaan,5.4637841438849675,51.47639781513123,531,Woenselse Heide
+20240156343,2024,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Veluwelaan,5.4637841438849675,51.476397815131236,531,Woenselse Heide
 20230031275,2023,property_damage_only,Kop/staart,Rechte weg,30.0,Kanaaldijk-Zuid,5.488391834919928,51.43708016253079,211,Irisbuurt
 20230071316,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Julianastraat,5.468910098489925,51.43712173168193,611,"Eliasterrein, Vonderkwartier"
 20230071505,2023,property_damage_only,Onbekend,"Kruispunt, 3 takken",50.0,Boschdijk,5.468075123811962,51.44805361462519,411,Limbeek-Noord
@@ -111,7 +111,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20230007862,2023,property_damage_only,Flank,"Kruispunt, 4 takken",70.0,Leostraat,5.492406034361594,51.42416854275691,216,Bloemenplein
 20220131145,2022,property_damage_only,Onbekend,,30.0,Boschdijk,5.437916966896925,51.47826544527306,521,Kerkdorp Acht
 20220149662,2022,property_damage_only,Flank,Rotonde,50.0,Keizer Karel V Singel,5.461384878142044,51.428549401208144,712,Oude Spoorbaan
-20220188720,2022,property_damage_only,Onbekend,"Kruispunt, 3 takken",50.0,Krabbendampad,5.476330259164584,51.43787511250659,111,Binnenstad
+20220188720,2022,property_damage_only,Onbekend,"Kruispunt, 3 takken",50.0,Krabbendampad,5.476330259164584,51.437875112506596,111,Binnenstad
 20220131849,2022,injury,Los voorwerp,Bocht,50.0,Karel Martelweg,5.458959053763942,51.43474571091884,613,Engelsbergen
 20240043856,2024,property_damage_only,Flank,Rechte weg,50.0,Waldeck Pyrmontstraat,5.446146443169266,51.43418036210304,621,Hurk
 20230054525,2023,injury,Flank,"Kruispunt, 3 takken",50.0,Puttensedreef,5.5193111878470305,51.42868876987634,230,Puttense Dreef
@@ -123,7 +123,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20230032471,2023,property_damage_only,Onbekend,,,Marconilaan,5.463071982289071,51.451399427923455,411,Limbeek-Noord
 20230030868,2023,property_damage_only,Frontaal,Rechte weg,30.0,Dutmalapad,5.483487641087231,51.447739573719744,115,TU-terrein
 20230030383,2023,property_damage_only,Eenzijdig,Rechte weg,30.0,Rechtestraat,5.477782446156612,51.43895004947908,111,Binnenstad
-20240033964,2024,injury,Flank,"Kruispunt, 4 takken",50.0,Oldengaarde,5.44020336028348,51.41565538032616,732,Hanevoet
+20240033964,2024,injury,Flank,"Kruispunt, 4 takken",50.0,Oldengaarde,5.44020336028348,51.415655380326164,732,Hanevoet
 20230090805,2023,property_damage_only,Frontaal,Rechte weg,30.0,Alberdingk Thijmlaan,5.480158100286474,51.42637711457132,217,Looiakkers
 20230092020,2023,property_damage_only,Onbekend,Rechte weg,70.0,Anthony Fokkerweg,5.419370182874491,51.46465746565563,628,Mispelhoef
 20220111577,2022,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,DIRCK VAN HORNELAAN,5.461880305142056,51.40503626610027,,
@@ -143,7 +143,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20220227352,2022,property_damage_only,Onbekend,Rotonde,,Tivolilaan,5.5050846185959275,51.421838011349685,234,Tivoli
 20240137315,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Gestelsestraat,5.468454970780237,51.42600441182716,723,Rapelenburg
 20240155586,2024,property_damage_only,Onbekend,"Kruispunt, 4 takken",30.0,Bleyslaan,5.464222690559219,51.46561249403461,424,Mensfort
-20240156859,2024,property_damage_only,Flank,Rechte weg,50.0,Vestdijktunnel,5.478290563209584,51.44183161291728,111,Binnenstad
+20240156859,2024,property_damage_only,Flank,Rechte weg,50.0,Vestdijktunnel,5.478290563209584,51.441831612917284,111,Binnenstad
 20240156388,2024,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Daniël Stalpaertstraat,5.455373403121348,51.46240735534022,423,Barrier
 20230109856,2023,property_damage_only,Geparkeerd voertuig,Rechte weg,30.0,Busonilaan,5.46144360884833,51.42718287135013,722,Blaarthem
 20230032765,2023,property_damage_only,Onbekend,,,Opera,5.472550667537866,51.48964404723861,534,Blixembosch-Oost
@@ -157,7 +157,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20220150455,2022,property_damage_only,Vast voorwerp,Rechte weg,50.0,Tongelresestraat,5.510410717963575,51.442648279754195,321,Doornakkers-West
 20240092179,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Geldropseweg,5.486117560288481,51.43462248517887,211,Irisbuurt
 20240091988,2024,property_damage_only,Onbekend,Rechte weg,50.0,Meerenakkerweg,5.430774413706435,51.4289669454116,621,Hurk
-20240092440,2024,injury,Onbekend,"Kruispunt, 4 takken",30.0,Roosje Vosstraat,5.468448768167256,51.44598811722266,410,Limbeek-Zuid
+20240092440,2024,injury,Onbekend,"Kruispunt, 4 takken",30.0,Roosje Vosstraat,5.4684487681672564,51.44598811722266,410,Limbeek-Zuid
 20240092938,2024,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Aalsterweg,5.485556039055116,51.4240195039237,217,Looiakkers
 20240072645,2024,property_damage_only,Kop/staart,"Kruispunt, 4 takken",50.0,St Jorislaan,5.486505081806259,51.42987922839544,215,Joriskwartier
 20240101974,2024,property_damage_only,Flank,Rotonde,50.0,Esp,5.494955279373484,51.48682098200961,545,Esp
@@ -183,7 +183,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240083354,2024,property_damage_only,Kop/staart,Bocht,15.0,Dillenburgstraat,5.43960593164464,51.43352699744334,621,Hurk
 20240102875,2024,property_damage_only,Eenzijdig,"Kruispunt, 3 takken",50.0,Barrierweg,5.460113256923549,51.45747128881787,423,Barrier
 20240072540,2024,property_damage_only,Eenzijdig,Rechte weg,50.0,Aalsterweg,5.485381740388641,51.422654538537294,222,Gerardusplein
-20230054715,2023,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Europalaan,5.479184585762973,51.45715780387077,432,Oude Toren
+20230054715,2023,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Europalaan,5.479184585762973,51.457157803870764,432,Oude Toren
 20230051268,2023,injury,Frontaal,Bocht,50.0,Insulindelaan,5.495991556411264,51.45136594339064,115,TU-terrein
 20230041518,2023,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Lavendellaan,5.502909799043381,51.421040264198595,237,Kruidenbuurt
 20220227012,2022,injury,Frontaal,Rechte weg,,18 Septemberplein,5.477397535471984,51.44140338618972,111,Binnenstad
@@ -200,7 +200,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20230079419,2023,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Fakkellaan,5.457903466124688,51.47392371638494,512,Prinsejagt
 20230098449,2023,property_damage_only,Flank,"Kruispunt, 4 takken",80.0,Anthony Fokkerweg,5.418367456909072,51.46400171150482,,
 20220111818,2022,injury,Flank,"Kruispunt, 3 takken",50.0,Mercuriuslaan,5.490768982641483,51.46819303235382,541,Eckart
-20230007522,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Maurits Lijnslagerstraat,5.472442129617558,51.46844159290181,513,Jagershoef
+20230007522,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Maurits Lijnslagerstraat,5.472442129617558,51.468441592901804,513,Jagershoef
 20230008991,2023,injury,Kop/staart,Rechte weg,50.0,St Petrus Canisiuslaan,5.507184192173403,51.42507749495924,230,Puttense Dreef
 20220160275,2022,property_damage_only,Flank,Rechte weg,50.0,Professor Dr Dorgelolaan,5.4848500099570545,51.44505865395681,115,TU-terrein
 20220131283,2022,injury,Frontaal,"Kruispunt, 4 takken",30.0,Willem de Zwijgerstraat,5.473290767550966,51.435278793853875,112,Bergen
@@ -220,7 +220,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20220229833,2022,property_damage_only,Onbekend,Rechte weg,50.0,Boschdijk,5.458262135319011,51.45794988269188,421,Woensel-West
 20220227726,2022,property_damage_only,Onbekend,Rechte weg,30.0,Aalsterweg,5.482781430879476,51.412950908627586,225,Eikenburg
 20240136552,2024,property_damage_only,Onbekend,Rechte weg,,Professor Holstlaan,5.462107936653104,51.40591763598114,726,Gennep
-20240002036,2024,property_damage_only,Flank,Rechte weg,30.0,Frederiklaan,5.460771424812167,51.44288109649904,615,Schoot
+20240002036,2024,property_damage_only,Flank,Rechte weg,30.0,Frederiklaan,5.460771424812167,51.442881096499036,615,Schoot
 20240155937,2024,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Den Biest,5.486776356524673,51.427304032409225,216,Bloemenplein
 20240156426,2024,property_damage_only,Voetganger,Rechte weg,,Limburglaan,5.45616395117722,51.43045385746713,721,Genderdal
 20230109858,2023,injury,Eenzijdig,Rechte weg,30.0,Woenselse Markt,5.471233039817118,51.451758225210334,412,Hemelrijken
@@ -235,7 +235,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240034436,2024,property_damage_only,Kop/staart,Rechte weg,50.0,Locomotiefstraat,5.515311430940065,51.444831774709385,333,"Muschberg, Geestenberg"
 20240034629,2024,injury,Flank,Rotonde,50.0,Fransebaan,5.447429886917468,51.47886701169204,522,Achtse Barrier-Gunterslaer
 20220189155,2022,property_damage_only,Onbekend,Rechte weg,50.0,Dr Berlagelaan,5.4641689362091785,51.45993819663504,422,Kronehoef
-20220150066,2022,injury,Kop/staart,Rechte weg,50.0,Vestdijk,5.481292413633616,51.43926336236037,111,Binnenstad
+20220150066,2022,injury,Kop/staart,Rechte weg,50.0,Vestdijk,5.481292413633616,51.439263362360364,111,Binnenstad
 20220187825,2022,injury,Flank,"Kruispunt, 4 takken",30.0,Fellenoord,5.46967634521754,51.441913765169176,612,Philipsdorp
 20240073277,2024,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Zwaanstraat,5.4521372418278355,51.44818420413173,625,Zwaanstraat
 20240072682,2024,property_damage_only,Frontaal,Rechte weg,30.0,Beukenlaan,5.452620630432534,51.448279860546776,625,Zwaanstraat
@@ -262,7 +262,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20220159984,2022,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Vestdijk,5.478345672419087,51.441217134190694,111,Binnenstad
 20220149846,2022,property_damage_only,Onbekend,Rechte weg,30.0,Hoplaan,5.4964465057292315,51.423235342304885,236,Nieuwe Erven
 20220188616,2022,injury,Flank,Rechte weg,,FIETSPAD,5.479635084400432,51.43286628421434,213,Elzent-Noord
-20220131850,2022,injury,Flank,"Kruispunt, 4 takken",50.0,St Petrus Canisiuslaan,5.509755704130274,51.42928532769293,232,Burghplan
+20220131850,2022,injury,Flank,"Kruispunt, 4 takken",50.0,St Petrus Canisiuslaan,5.509755704130274,51.429285327692924,232,Burghplan
 20240083051,2024,property_damage_only,Frontaal,Rechte weg,15.0,Wedderborg,5.443654974705605,51.41395648841384,732,Hanevoet
 20240101793,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Dirk Boutslaan,5.502797347958101,51.43351343035194,211,Irisbuurt
 20240091742,2024,property_damage_only,Flank,Rechte weg,30.0,High Tech Campus,5.449377638946933,51.408074711969384,,
@@ -294,7 +294,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240033284,2024,injury,Flank,"Kruispunt, 4 takken",50.0,Marinus van Meelweg,5.393526607481694,51.454286290304736,637,Flight Forum
 20230081341,2023,property_damage_only,Onbekend,"Kruispunt, 3 takken",50.0,Hendrik de Keyzerlaan,5.457732590879753,51.46243848090705,423,Barrier
 20230080354,2023,property_damage_only,Flank,Rechte weg,50.0,Geldropseweg,5.489186047658229,51.433337453324704,211,Irisbuurt
-20220089046,2022,property_damage_only,Frontaal,"Kruispunt, 4 takken",50.0,St Petrus Canisiuslaan,5.509755704130274,51.42928532769293,232,Burghplan
+20220089046,2022,property_damage_only,Frontaal,"Kruispunt, 4 takken",50.0,St Petrus Canisiuslaan,5.509755704130274,51.429285327692924,232,Burghplan
 20220038869,2022,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,St Otgeruslaan,5.505427189409164,51.423218684335566,233,Sintenbuurt
 20220028755,2022,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Oude Bossche Baan,5.456778956284647,51.46699254858476,512,Prinsejagt
 20230009182,2023,property_damage_only,Onbekend,,50.0,Karel de Grotelaan,5.4478374764423245,51.42067783885102,721,Genderdal
@@ -326,7 +326,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240034407,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Fellenoord,5.47013037597998,51.44175037005676,113,Witte Dame
 20220188804,2022,injury,Flank,"Kruispunt, 4 takken",30.0,Kruisstraat,5.475030924177242,51.44538507022558,413,Gildebuurt
 20220189301,2022,property_damage_only,Onbekend,Rechte weg,30.0,Bennekelstraat,5.461062841564457,51.42149428990995,724,Bennekel-Oost
-20220159869,2022,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Krabbendampad,5.476330259164584,51.43787511250659,111,Binnenstad
+20220159869,2022,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Krabbendampad,5.476330259164584,51.437875112506596,111,Binnenstad
 20230041402,2023,property_damage_only,Vast voorwerp,Rechte weg,,Vredeoord,5.449920557062668,51.457742354619874,421,Woensel-West
 20230040908,2023,injury,Flank,Rechte weg,50.0,Kanaaldijk-Zuid,5.515031138447086,51.43365364472614,,
 20220228539,2022,property_damage_only,Flank,Rotonde,30.0,Esp,5.494782293811546,51.48687207240763,545,Esp
@@ -354,7 +354,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240024924,2024,injury,Voetganger,"Kruispunt, 4 takken",30.0,Gildelaan,5.475409259340008,51.447700381594615,413,Gildebuurt
 20240003012,2024,injury,Voetganger,"Kruispunt, 4 takken",15.0,Hastelweg,5.441250393299565,51.436121411703255,622,Het Ven
 20240003099,2024,property_damage_only,Flank,Rechte weg,,Tempellaan,5.471186561359621,51.48408213227842,534,Blixembosch-Oost
-20230071854,2023,property_damage_only,Voetganger,Bocht,50.0,Flight Forum,5.397637489705451,51.44862655392187,637,Flight Forum
+20230071854,2023,property_damage_only,Voetganger,Bocht,50.0,Flight Forum,5.397637489705451,51.448626553921876,637,Flight Forum
 20230072042,2023,injury,Onbekend,Rechte weg,30.0,Vlokhovenseweg,5.482350971754384,51.4709143153192,516,Vlokhoven
 20230031030,2023,property_damage_only,Eenzijdig,"Kruispunt, 4 takken",50.0,Adriaan Dorsmanstraat,5.457969591777549,51.46341966568739,423,Barrier
 20230030529,2023,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Michelangelolaan,5.46896059169339,51.46435453835574,425,Rapenland
@@ -368,10 +368,10 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240073868,2024,property_damage_only,Voetganger,Rechte weg,15.0,Winkelcentrum Woensel,5.47423803427955,51.47022641928994,515,Winkelcentrum
 20240082316,2024,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Borgerhoutlaan,5.477957644108436,51.48017691051713,532,Tempel
 20240092431,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Karel de Grotelaan,5.456955717003493,51.42611689315408,721,Genderdal
-20240082382,2024,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Maurits Lijnslagerstraat,5.472442129617558,51.46844159290181,513,Jagershoef
+20240082382,2024,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Maurits Lijnslagerstraat,5.472442129617558,51.468441592901804,513,Jagershoef
 20240102282,2024,property_damage_only,Onbekend,Rechte weg,50.0,Antoon Coolenlaan,5.466412945208944,51.417099427256595,724,Bennekel-Oost
 20240073144,2024,property_damage_only,Onbekend,Rechte weg,30.0,Ir Kalffstraat,5.456999857677549,51.44593052658764,616,Strijp S
-20230062318,2023,injury,Eenzijdig,"Kruispunt, 4 takken",50.0,Karel de Grotelaan,5.44749208562202,51.42049282803936,721,Genderdal
+20230062318,2023,injury,Eenzijdig,"Kruispunt, 4 takken",50.0,Karel de Grotelaan,5.44749208562202,51.420492828039364,721,Genderdal
 20230062350,2023,property_damage_only,Flank,Rechte weg,30.0,Mahatma Gandhilaan,5.444646871637691,51.427531484135145,731,Genderbeemd
 20230054021,2023,injury,Flank,Rotonde,50.0,Orpheuslaan,5.488145987362638,51.45741922271541,433,Hondsheuvels
 20220229933,2022,injury,Flank,"Kruispunt, 3 takken",,Generaal Pattonlaan,5.47962399822261,51.46074543475284,431,Generalenbuurt
@@ -397,7 +397,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240136709,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Marathonloop,5.456000147012635,51.47894579554736,522,Achtse Barrier-Gunterslaer
 20240003105,2024,property_damage_only,Flank,Rechte weg,,Beemdstraat,5.451135313807122,51.43018759901893,721,Genderdal
 20230033400,2023,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Langendijk,5.430793828350298,51.42318652162561,621,Hurk
-20230030340,2023,property_damage_only,Onbekend,Rechte weg,30.0,Wolvendijk,5.521781566155729,51.45042168011947,335,'t Hofke
+20230030340,2023,property_damage_only,Onbekend,Rechte weg,30.0,Wolvendijk,5.521781566155729,51.450421680119476,335,'t Hofke
 20230071369,2023,injury,Eenzijdig,Rechte weg,50.0,Keizersgracht,5.4776054570194805,51.43702519785379,111,Binnenstad
 20230032253,2023,property_damage_only,Flank,Rechte weg,50.0,Zwaanstraat,5.451554419242394,51.44826758321347,625,Zwaanstraat
 20230091730,2023,property_damage_only,Frontaal,Rechte weg,30.0,Insulindelaan,5.5030525333451,51.44361527194359,311,Villapark
@@ -410,7 +410,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20230009063,2023,property_damage_only,Los voorwerp,"Kruispunt, 3 takken",30.0,Galileistraat,5.4585277056144355,51.45109668582938,421,Woensel-West
 20240024330,2024,property_damage_only,Onbekend,Rechte weg,30.0,1e Lieven de Keylaan,5.458338218614094,51.46356360036861,423,Barrier
 20220188730,2022,property_damage_only,Flank,"Kruispunt, 4 takken",80.0,Mispelhoefstraat,5.406482268953687,51.46769586467264,628,Mispelhoef
-20220131520,2022,property_damage_only,Onbekend,Rechte weg,50.0,Marathonloop,5.451671239130386,51.47728016156197,511,Driehoeksbos
+20220131520,2022,property_damage_only,Onbekend,Rechte weg,50.0,Marathonloop,5.451671239130386,51.477280161561964,511,Driehoeksbos
 20240092354,2024,property_damage_only,Flank,Rechte weg,30.0,1e Lieven de Keylaan,5.466966475505578,51.46689457539313,424,Mensfort
 20240092307,2024,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Veldm Montgomerylaan,5.477983982731482,51.45113325728689,414,Woenselse Watermolen
 20240102939,2024,injury,Onbekend,"Kruispunt, 4 takken",30.0,Ampèrestraat,5.456225499258864,51.452156213889005,421,Woensel-West
@@ -420,7 +420,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20230053894,2023,injury,Flank,Rechte weg,50.0,Winston Churchilllaan,5.482553582360442,51.46733058490947,431,Generalenbuurt
 20230054499,2023,property_damage_only,Onbekend,Rechte weg,,Anthony Fokkerweg,5.412177439609661,51.46120355418281,628,Mispelhoef
 20230042956,2023,injury,Flank,"Kruispunt, 4 takken",50.0,Korianderstraat,5.495579590712178,51.420064911757215,221,Kerstroosplein
-20220289065,2022,property_damage_only,Onbekend,Rechte weg,60.0,Scherpenering,5.36093661728032,51.4496287797928,,
+20220289065,2022,property_damage_only,Onbekend,Rechte weg,60.0,Scherpenering,5.36093661728032,51.449628779792796,,
 20220229584,2022,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Orpheuslaan,5.485158453625739,51.45726915619985,432,Oude Toren
 20220228404,2022,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,St Gerarduslaan,5.485909298293907,51.420957271981315,222,Gerardusplein
 20240136131,2024,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,2e Lieven de Keylaan,5.454446768002381,51.46211157481103,512,Prinsejagt
@@ -477,7 +477,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240102878,2024,property_damage_only,Onbekend,"Kruispunt, 3 takken",30.0,Frederiklaan,5.457170920620524,51.441888632140035,612,Philipsdorp
 20230041948,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Emmasingel,5.4757208193244615,51.44112454061639,111,Binnenstad
 20230041082,2023,property_damage_only,Onbekend,"Kruispunt, 3 takken",50.0,Stratumsedijk,5.484242690074991,51.433529064582345,111,Binnenstad
-20230054522,2023,property_damage_only,Frontaal,Bocht,,FIETSPAD,5.41779664444683,51.46661699678421,628,Mispelhoef
+20230054522,2023,property_damage_only,Frontaal,Bocht,,FIETSPAD,5.41779664444683,51.466616996784204,628,Mispelhoef
 20220229527,2022,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Genovevalaan,5.472672974621614,51.467322972363135,425,Rapenland
 20220227728,2022,injury,Flank,"Kruispunt, 3 takken",50.0,Vijfkamplaan,5.454194468453344,51.47806633849308,511,Driehoeksbos
 20240148093,2024,injury,Frontaal,Rechte weg,50.0,2e Lieven de Keylaan,5.45487214649473,51.462299172565025,512,Prinsejagt
@@ -519,7 +519,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240101775,2024,property_damage_only,Onbekend,"Kruispunt, 3 takken",30.0,Grebbeberglaan,5.466218983470298,51.48121763335359,531,Woenselse Heide
 20240102359,2024,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Bleyslaan,5.464222690559219,51.46561249403461,424,Mensfort
 20240074174,2024,injury,Flank,"Kruispunt, 4 takken",70.0,van Oldenbarneveltlaan,5.512433033331036,51.45163050911279,336,Karpen
-20240045194,2024,property_damage_only,Onbekend,Rotonde,50.0,Willem Elsschotlaan,5.479217432625156,51.41692452366773,226,Sportpark Aalsterweg
+20240045194,2024,property_damage_only,Onbekend,Rotonde,50.0,Willem Elsschotlaan,5.479217432625156,51.416924523667724,226,Sportpark Aalsterweg
 20230062909,2023,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Grebbeberglaan,5.465174830851746,51.48139204450301,531,Woenselse Heide
 20230062637,2023,injury,Voetganger,Rechte weg,50.0,De Schakel,5.407950208938355,51.47650032721461,628,Mispelhoef
 20230063374,2023,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Glinkastraat,5.4582588403767005,51.425708696070835,722,Blaarthem
@@ -603,7 +603,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20220189033,2022,property_damage_only,Frontaal,Rechte weg,,Emmasingel,5.475223853306539,51.43841308629491,111,Binnenstad
 20220131880,2022,property_damage_only,Onbekend,,30.0,Heezerweg,5.489179613557561,51.428920247340415,215,Joriskwartier
 20240083806,2024,property_damage_only,Kop/staart,Rechte weg,30.0,Hoogstraat,5.46479414983911,51.428096417246046,711,Schrijversbuurt
-20240044091,2024,property_damage_only,Onbekend,,,Hurksestraat,5.430133224625188,51.43505786977891,621,Hurk
+20240044091,2024,property_damage_only,Onbekend,,,Hurksestraat,5.430133224625188,51.435057869778916,621,Hurk
 20240101807,2024,property_damage_only,Vast voorwerp,Rechte weg,30.0,Fellenoord,5.475275711472442,51.44376594084319,114,Fellenoord
 20230042635,2023,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Tongelresestraat,5.50049905685214,51.44222802872309,311,Villapark
 20230050872,2023,property_damage_only,Onbekend,"Kruispunt, 4 takken",30.0,Meergras,5.409334045662967,51.440144393234824,640,Meerrijk
@@ -611,7 +611,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20220227196,2022,property_damage_only,Geparkeerd voertuig,"Kruispunt, 3 takken",50.0,Schootsestraat,5.455799170300488,51.44167619323468,615,Schoot
 20220227509,2022,property_damage_only,Onbekend,Rechte weg,30.0,Esp,5.493474786756561,51.489738152660365,545,Esp
 20220228463,2022,property_damage_only,Flank,Rotonde,50.0,Kasteellaan,5.442339101037035,51.426828557907065,731,Genderbeemd
-20220229391,2022,injury,Flank,"Kruispunt, 4 takken",50.0,Langendijk,5.432553169309314,51.42867506118317,621,Hurk
+20220229391,2022,injury,Flank,"Kruispunt, 4 takken",50.0,Langendijk,5.432553169309314,51.428675061183164,621,Hurk
 20240136430,2024,property_damage_only,Frontaal,Rechte weg,30.0,Antony van Leeuwenhoekln,5.4600473568238925,51.4496496560722,411,Limbeek-Noord
 20240147599,2024,injury,Voetganger,Rechte weg,,Kanaaldijk-Zuid,5.486063468534196,51.43734955762118,211,Irisbuurt
 20240137242,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Dillenburgstraat,5.439627376303337,51.433162095851834,621,Hurk
@@ -636,11 +636,11 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240092765,2024,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Koenraadlaan,5.444514972544588,51.44793995439476,625,Zwaanstraat
 20240093021,2024,property_damage_only,Frontaal,Rechte weg,,Nelson Mandelapark,5.438231452439792,51.425083037219586,731,Genderbeemd
 20230176338,2023,injury,Flank,Bocht,15.0,Flight Forum,5.4001421551498,51.453467201566575,637,Flight Forum
-20220228136,2022,property_damage_only,Flank,Rechte weg,30.0,Ella Fitzgeraldlaan,5.473836563729234,51.49125565317557,534,Blixembosch-Oost
+20220228136,2022,property_damage_only,Flank,Rechte weg,30.0,Ella Fitzgeraldlaan,5.473836563729234,51.491255653175564,534,Blixembosch-Oost
 20220229923,2022,property_damage_only,Frontaal,Rechte weg,50.0,Vestdijktunnel,5.477788027860993,51.44236647180732,111,Binnenstad
 20230110796,2023,property_damage_only,Flank,Rechte weg,30.0,Vestdijktunnel,5.476875818888559,51.4440523933352,114,Fellenoord
 20240156352,2024,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Marathonloop,5.44946528022311,51.4763784624233,511,Driehoeksbos
-20230032431,2023,property_damage_only,Onbekend,"Kruispunt, 4 takken",70.0,Eisenhowerlaan,5.51280163096703,51.45155467851245,337,Koudenhoven
+20230032431,2023,property_damage_only,Onbekend,"Kruispunt, 4 takken",70.0,Eisenhowerlaan,5.51280163096703,51.451554678512444,337,Koudenhoven
 20230030648,2023,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Ouverture,5.4738120443865625,51.487977037630394,534,Blixembosch-Oost
 20230030723,2023,injury,Kop/staart,Rechte weg,30.0,Luxemburglaan,5.4781570447096355,51.47289892782843,514,'t Hool
 20230079360,2023,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Leenderweg,5.492765147131528,51.42402351961612,222,Gerardusplein
@@ -652,7 +652,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20220067232,2022,property_damage_only,Onbekend,"Kruispunt, 4 takken",,Limburglaan,5.454753932984025,51.43140645044968,721,Genderdal
 20220028457,2022,injury,Flank,"Kruispunt, 4 takken",80.0,VELDHOVEN-ZUID 32,5.427929664371777,51.41687448273407,733,Ooievaarsnest
 20220088983,2022,property_damage_only,Frontaal,"Kruispunt, 4 takken",30.0,FIETSPAD,5.491738012052906,51.47795089881554,543,Vaartbroek
-20230007298,2023,property_damage_only,Onbekend,,,Orpheuslaan,5.490557824256176,51.457513238278,434,Oude Gracht-West
+20230007298,2023,property_damage_only,Onbekend,,,Orpheuslaan,5.490557824256176,51.457513238278004,434,Oude Gracht-West
 20220131903,2022,property_damage_only,Onbekend,"Kruispunt, 3 takken",70.0,Boschdijk,5.4301496285662445,51.48651781531275,520,Kapelbeemd
 20220131222,2022,property_damage_only,Vast voorwerp,"Kruispunt, 3 takken",70.0,Ds Theodor Fliednerstr,5.489461592283405,51.4527684017482,433,Hondsheuvels
 20220150157,2022,property_damage_only,Frontaal,"Kruispunt, 3 takken",30.0,Amienslaan,5.447127250257896,51.49201240146789,524,Achtse Barrier-Hoeven
@@ -714,7 +714,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240073367,2024,property_damage_only,Flank,Rechte weg,30.0,Achtseweg Noord,5.4187303741639266,51.472004171971754,628,Mispelhoef
 20240103206,2024,property_damage_only,Onbekend,Rechte weg,50.0,Hurksestraat,5.444103845951171,51.43196579681744,621,Hurk
 20240045220,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Daniël Stalpaertstraat,5.455373403121348,51.46240735534022,423,Barrier
-20230042592,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Beemdstraat,5.447823772323343,51.42889372848085,731,Genderbeemd
+20230042592,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Beemdstraat,5.447823772323343,51.428893728480844,731,Genderbeemd
 20230062653,2023,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Karel de Grotelaan,5.467141386214663,51.43332367454515,712,Oude Spoorbaan
 20230043313,2023,property_damage_only,Flank,"Kruispunt, 4 takken",70.0,Leostraat,5.492406034361594,51.42416854275691,216,Bloemenplein
 20230050918,2023,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Bisschop Bekkerslaan,5.479683103486903,51.476183064044896,532,Tempel
@@ -730,7 +730,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240014102,2024,injury,Kop/staart,Rechte weg,70.0,Insulindetunnel,5.502107535802504,51.44505232046469,115,TU-terrein
 20230110429,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Kasteellaan,5.4425617757610985,51.42696944503574,731,Genderbeemd
 20230071706,2023,property_damage_only,Onbekend,Rechte weg,,Cranendonck,5.430861727242069,51.42310764737439,731,Genderbeemd
-20230080013,2023,property_damage_only,Flank,Rotonde,50.0,Rogier van der Weydenstr,5.512368085133664,51.43591899277891,321,Doornakkers-West
+20230080013,2023,property_damage_only,Flank,Rotonde,50.0,Rogier van der Weydenstr,5.512368085133664,51.435918992778916,321,Doornakkers-West
 20230100422,2023,injury,Flank,Rotonde,30.0,Montpellierlaan,5.44719703979482,51.47853793411063,522,Achtse Barrier-Gunterslaer
 20230098885,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Mathildelaan,5.4732080469743325,51.441216299705985,113,Witte Dame
 20230098539,2023,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Schootsestraat,5.455799170300488,51.44167619323468,615,Schoot
@@ -765,7 +765,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20220112356,2022,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Nieuwe Sliffertsestraat,5.420860253625832,51.43813951709417,633,Grasrijk
 20220131979,2022,injury,Flank,"Kruispunt, 3 takken",50.0,Hurksestraat,5.42955673962986,51.43665652021711,621,Hurk
 20220189244,2022,property_damage_only,Onbekend,Rechte weg,30.0,Opera,5.478982315496643,51.492038940131515,534,Blixembosch-Oost
-20220131636,2022,property_damage_only,Onbekend,Rechte weg,,Blixemboschpad,5.46899782518569,51.48601272637136,534,Blixembosch-Oost
+20220131636,2022,property_damage_only,Onbekend,Rechte weg,,Blixemboschpad,5.46899782518569,51.486012726371364,534,Blixembosch-Oost
 20220149231,2022,property_damage_only,Flank,Rechte weg,30.0,Koning Arthurlaan,5.469314979410159,51.47096948187451,513,Jagershoef
 20240043733,2024,injury,Eenzijdig,Rechte weg,50.0,Geldropseweg,5.514817262948117,51.429537957933064,,
 20230042744,2023,property_damage_only,Onbekend,Rechte weg,50.0,Struyckenstraat,5.443798889515842,51.43934612859185,622,Het Ven
@@ -832,11 +832,11 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240034886,2024,property_damage_only,Onbekend,Bocht,30.0,Panorama,5.47544423317236,51.49507547653475,534,Blixembosch-Oost
 20220160286,2022,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Orpheuslaan,5.4851369220890325,51.457585909025084,431,Generalenbuurt
 20220160288,2022,property_damage_only,Vast voorwerp,"Kruispunt, 3 takken",30.0,Toon Schröderlaan,5.481730584201314,51.410336691445785,226,Sportpark Aalsterweg
-20220188546,2022,injury,Flank,"Kruispunt, 4 takken",30.0,Gladiolusstraat,5.490284100867551,51.42013310109227,222,Gerardusplein
+20220188546,2022,injury,Flank,"Kruispunt, 4 takken",30.0,Gladiolusstraat,5.490284100867551,51.420133101092276,222,Gerardusplein
 20220131466,2022,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Europalaan,5.482879500159917,51.45727952115714,432,Oude Toren
 20220189246,2022,property_damage_only,Flank,Rechte weg,30.0,Generaal Marshallweg,5.477497372102702,51.464462878553675,431,Generalenbuurt
 20220150098,2022,injury,Eenzijdig,Rechte weg,50.0,Roostenlaan,5.490138109767409,51.408459923203495,225,Eikenburg
-20220131740,2022,property_damage_only,Flank,"Kruispunt, 3 takken",,Kruisstraat,5.475127079053029,51.44577026316587,413,Gildebuurt
+20220131740,2022,property_damage_only,Flank,"Kruispunt, 3 takken",,Kruisstraat,5.475127079053029,51.445770263165876,413,Gildebuurt
 20220150156,2022,property_damage_only,Kop/staart,Rechte weg,50.0,Huizingalaan,5.460234789348397,51.475103135760335,531,Woenselse Heide
 20240074548,2024,injury,Vast voorwerp,Rechte weg,30.0,Kruisstraattunnel,5.4752589889603245,51.44445982552027,114,Fellenoord
 20240082289,2024,property_damage_only,Vast voorwerp,Rechte weg,,Stratumsedijk,5.486514837975574,51.42890136410805,217,Looiakkers
@@ -890,7 +890,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240072633,2024,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Philitelaan,5.462724269728804,51.44511477982936,616,Strijp S
 20240101649,2024,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Tonnaerstraat,5.468854541898941,51.4572026325636,424,Mensfort
 20230062427,2023,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Bomansplaats,5.48487801411365,51.42984322598553,213,Elzent-Noord
-20230043184,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Winston Churchilllaan,5.478294658188755,51.46744721578827,431,Generalenbuurt
+20230043184,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Winston Churchilllaan,5.478294658188755,51.467447215788276,431,Generalenbuurt
 20220227569,2022,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Kruisstraat,5.474692414622369,51.44875567065354,412,Hemelrijken
 20220227597,2022,injury,Eenzijdig,Rechte weg,50.0,Estafettelaan,5.453040497624038,51.47177470591256,511,Driehoeksbos
 20220228658,2022,property_damage_only,Flank,Rechte weg,50.0,Hastelweg,5.4433983523440075,51.435846041199135,622,Het Ven
@@ -898,7 +898,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240137013,2024,property_damage_only,Kop/staart,"Kruispunt, 3 takken",30.0,Gen van der Duynlaan,5.482756281221163,51.45815214542037,431,Generalenbuurt
 20230109888,2023,property_damage_only,Frontaal,Rechte weg,30.0,Marconilaan,5.463025854764724,51.45136184397248,411,Limbeek-Noord
 20240155651,2024,property_damage_only,Flank,Rechte weg,50.0,Hoogstraat,5.4705827671567295,51.43261398413756,711,Schrijversbuurt
-20240155933,2024,property_damage_only,Onbekend,Rotonde,50.0,Mercuriuslaan,5.493093330735953,51.47541646114976,541,Eckart
+20240155933,2024,property_damage_only,Onbekend,Rotonde,50.0,Mercuriuslaan,5.493093330735953,51.475416461149756,541,Eckart
 20240002652,2024,property_damage_only,Flank,Rotonde,50.0,Tempellaan,5.494855036777098,51.48651950165684,544,Heesterakker
 20230110280,2023,property_damage_only,Flank,Rotonde,50.0,Suikerpeerstraat,5.49313448957127,51.47578372113755,543,Vaartbroek
 20230033130,2023,property_damage_only,Eenzijdig,Bocht,50.0,Bernardinopas,5.449106543574809,51.47253318175379,511,Driehoeksbos
@@ -906,7 +906,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240072958,2024,property_damage_only,Onbekend,Rechte weg,50.0,Geldropseweg,5.514817262948117,51.429537957933064,,
 20230090850,2023,injury,Flank,"Kruispunt, 4 takken",50.0,Achtseweg Noord,5.415369915616248,51.47435017761736,628,Mispelhoef
 20220111516,2022,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Zwaanstraat,5.449898329523495,51.44978913971811,625,Zwaanstraat
-20220112389,2022,property_damage_only,Eenzijdig,Rechte weg,,Boschdijktunnel,5.474634599072106,51.44306526209736,114,Fellenoord
+20220112389,2022,property_damage_only,Eenzijdig,Rechte weg,,Boschdijktunnel,5.474634599072106,51.443065262097356,114,Fellenoord
 20240034894,2024,property_damage_only,Flank,Rechte weg,50.0,Vestdijk,5.478579604256101,51.44136393915668,111,Binnenstad
 20220160141,2022,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Lichtstraat,5.471099939333148,51.439867126828,113,Witte Dame
 20220160167,2022,property_damage_only,Flank,Rechte weg,30.0,Htg Hendrik v Brabantpln,5.485898258463262,51.43273284869833,212,Rochusbuurt
@@ -992,15 +992,15 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20230009146,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Floralaan West,5.491651337158228,51.41588638204795,224,Roosten
 20230009252,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Boschdijk,5.472095836479427,51.44444185653007,114,Fellenoord
 20230007432,2023,injury,Flank,Rotonde,50.0,Tempellaan,5.494855036777098,51.48651950165684,544,Heesterakker
-20220149606,2022,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Langendijk,5.432553169309314,51.42867506118317,621,Hurk
+20220149606,2022,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Langendijk,5.432553169309314,51.428675061183164,621,Hurk
 20220189126,2022,property_damage_only,Onbekend,"Kruispunt, 3 takken",30.0,Parklaan,5.4872077989825545,51.441578995135174,311,Villapark
 20240083561,2024,property_damage_only,Flank,Rechte weg,,Zwaanstraat,5.448546522403183,51.45107459943193,625,Zwaanstraat
-20240072572,2024,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Willemstraat,5.465434222084778,51.43895289794808,611,"Eliasterrein, Vonderkwartier"
-20240101718,2024,property_damage_only,Onbekend,Rechte weg,30.0,Henricus Herpstraat,5.509125762513392,51.42687530262744,232,Burghplan
+20240072572,2024,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Willemstraat,5.465434222084778,51.438952897948084,611,"Eliasterrein, Vonderkwartier"
+20240101718,2024,property_damage_only,Onbekend,Rechte weg,30.0,Henricus Herpstraat,5.509125762513392,51.426875302627444,232,Burghplan
 20240083198,2024,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Barrierweg,5.463548574606258,51.4603021085487,423,Barrier
 20240101797,2024,injury,Onbekend,Rechte weg,30.0,Dirk Boutslaan,5.497993562142077,51.43419005688388,211,Irisbuurt
 20240101619,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Tilburgseweg-Oost,5.443806564313172,51.44392475198591,624,Drents Dorp
-20240091835,2024,property_damage_only,Flank,Rechte weg,50.0,Marathonloop,5.451671239130386,51.47728016156197,511,Driehoeksbos
+20240091835,2024,property_damage_only,Flank,Rechte weg,50.0,Marathonloop,5.451671239130386,51.477280161561964,511,Driehoeksbos
 20240083462,2024,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,St Jorislaan,5.49322535257376,51.43209255349142,212,Rochusbuurt
 20230062865,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Kanaaldijk-Noord,5.503596662829524,51.43516062118986,312,Lakerlopen
 20230054456,2023,property_damage_only,Los voorwerp,"Kruispunt, 4 takken",50.0,Kloosterdreef,5.471533984196886,51.45251746426656,412,Hemelrijken
@@ -1053,16 +1053,16 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240024209,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Tonnaerstraat,5.468854541898941,51.4572026325636,424,Mensfort
 20220149608,2022,property_damage_only,Onbekend,,15.0,Kruisstraat,5.475268988826891,51.448063594315464,413,Gildebuurt
 20220189014,2022,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Kruisstraat,5.475030924177242,51.44538507022558,413,Gildebuurt
-20240092106,2024,property_damage_only,Onbekend,Rechte weg,50.0,Marconilaan,5.461081628999947,51.45075402687048,411,Limbeek-Noord
+20240092106,2024,property_damage_only,Onbekend,Rechte weg,50.0,Marconilaan,5.461081628999947,51.450754026870484,411,Limbeek-Noord
 20240103317,2024,property_damage_only,Frontaal,Rechte weg,50.0,Kloosterdreef,5.470755546688817,51.45463373054806,422,Kronehoef
 20240083297,2024,injury,Onbekend,Rotonde,50.0,Rogier van der Weydenstr,5.5124677991014925,51.43590353921848,321,Doornakkers-West
 20240045133,2024,property_damage_only,Kop/staart,"Kruispunt, 4 takken",50.0,Veldm Montgomerylaan,5.476521214344438,51.46082814291677,431,Generalenbuurt
-20230054465,2023,property_damage_only,Frontaal,Rechte weg,50.0,Mathildelaan,5.473302509301435,51.44116246141037,113,Witte Dame
+20230054465,2023,property_damage_only,Frontaal,Rechte weg,50.0,Mathildelaan,5.473302509301435,51.441162461410364,113,Witte Dame
 20230041671,2023,property_damage_only,Onbekend,Rechte weg,30.0,BERENKUIL,5.4998068538300355,51.447252973338045,115,TU-terrein
 20220228093,2022,property_damage_only,Onbekend,Rechte weg,30.0,Oirschotsedijk,5.405164333613728,51.46784001492141,631,BeA2
 20220228937,2022,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Daniël Stalpaertstraat,5.455373403121348,51.46240735534022,423,Barrier
 20220228250,2022,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Oude Stadsgracht,5.484029366490972,51.436595440572106,111,Binnenstad
-20220229772,2022,property_damage_only,Flank,Rechte weg,50.0,Petrus Dondersstraat,5.496123713033039,51.42929570930752,214,Tuindorp
+20220229772,2022,property_damage_only,Flank,Rechte weg,50.0,Petrus Dondersstraat,5.496123713033039,51.429295709307524,214,Tuindorp
 20220227767,2022,property_damage_only,Flank,"Kruispunt, 4 takken",,Vestdijk,5.482242081970142,51.4382240586577,111,Binnenstad
 20240146407,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Franklin D Rooseveltlaan,5.478492963340517,51.46770856329452,515,Winkelcentrum
 20230109443,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Antoon Coolenlaan,5.483164054351353,51.41672087597591,223,Genneperzijde
@@ -1083,7 +1083,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240101455,2024,property_damage_only,Onbekend,Rechte weg,30.0,Willem de Rijkelaan,5.464606315936939,51.43494739388553,611,"Eliasterrein, Vonderkwartier"
 20230051282,2023,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Brakenstraat,5.523062225884779,51.424217351516795,240,Riel
 20230062678,2023,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Emmasingel,5.475654031198825,51.4381505694578,111,Binnenstad
-20230062682,2023,property_damage_only,Flank,"Kruispunt, 4 takken",70.0,Beemdstraat,5.453482721513793,51.4313074691412,621,Hurk
+20230062682,2023,property_damage_only,Flank,"Kruispunt, 4 takken",70.0,Beemdstraat,5.453482721513793,51.431307469141196,621,Hurk
 20230042068,2023,property_damage_only,Voetganger,Rechte weg,30.0,Veldm Montgomerylaan,5.476727020581608,51.44430267172891,114,Fellenoord
 20230041784,2023,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Abbevillelaan,5.451102510911546,51.49230718373975,524,Achtse Barrier-Hoeven
 20230054063,2023,property_damage_only,Frontaal,Bocht,30.0,Michelangelolaan,5.473005884735072,51.46445514561842,425,Rapenland
@@ -1126,7 +1126,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240146997,2024,property_damage_only,Flank,Rotonde,30.0,Pagelaan,5.514889348031331,51.450037327221125,335,'t Hofke
 20240023872,2024,property_damage_only,Voetganger,Rechte weg,50.0,Meerveldhovenseweg,5.443162430356937,51.4187299101034,732,Hanevoet
 20240002217,2024,property_damage_only,Kop/staart,Rechte weg,50.0,Hoogstraat,5.463184916120056,51.42622659168818,722,Blaarthem
-20230109744,2023,property_damage_only,Eenzijdig,Rechte weg,30.0,Tankenberglaan,5.462452940894717,51.48245117733459,531,Woenselse Heide
+20230109744,2023,property_damage_only,Eenzijdig,Rechte weg,30.0,Tankenberglaan,5.462452940894717,51.482451177334596,531,Woenselse Heide
 20240155727,2024,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Mecklenburgstraat,5.47139534077023,51.43527471393094,712,Oude Spoorbaan
 20240033970,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Karel de Grotelaan,5.457130972987825,51.42621165546066,722,Blaarthem
 20230079371,2023,property_damage_only,Frontaal,Rechte weg,15.0,Bleekweg,5.484520290764878,51.43582021940769,111,Binnenstad
@@ -1162,8 +1162,8 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240033766,2024,property_damage_only,Eenzijdig,Rechte weg,30.0,Karolingersweg,5.456186546147217,51.436835404083936,613,Engelsbergen
 20230098672,2023,property_damage_only,Los voorwerp,"Kruispunt, 4 takken",50.0,de Waghemakerstraat,5.466685857419786,51.46650600661316,424,Mensfort
 20230099608,2023,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,St Trudoplein,5.4550072295483965,51.44144441055728,615,Schoot
-20230091835,2023,injury,Eenzijdig,"Kruispunt, 3 takken",30.0,Sassenlaan,5.494557909520278,51.4156639522276,224,Roosten
-20230100210,2023,property_damage_only,Onbekend,Rechte weg,50.0,Kloosterdreef,5.471691696654428,51.45221742129792,412,Hemelrijken
+20230091835,2023,injury,Eenzijdig,"Kruispunt, 3 takken",30.0,Sassenlaan,5.494557909520278,51.415663952227604,224,Roosten
+20230100210,2023,property_damage_only,Onbekend,Rechte weg,50.0,Kloosterdreef,5.471691696654428,51.452217421297924,412,Hemelrijken
 20220028902,2022,property_damage_only,Flank,"Kruispunt, 4 takken",70.0,Jeroen Boschlaan,5.504971313183154,51.43830799690999,321,Doornakkers-West
 20220089898,2022,property_damage_only,Flank,Rechte weg,50.0,18 Septemberplein,5.4773509535399,51.441224484605776,111,Binnenstad
 20220089709,2022,injury,Flank,"Kruispunt, 3 takken",,John F Kennedylaan,5.487682549748309,51.47351794874608,516,Vlokhoven
@@ -1181,13 +1181,13 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240101530,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Marathonloop,5.456000147012635,51.47894579554736,522,Achtse Barrier-Gunterslaer
 20240072545,2024,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Hertogstraat,5.485813184021673,51.43306852503589,212,Rochusbuurt
 20240091857,2024,property_damage_only,Flank,Rechte weg,30.0,Tramstraat,5.483501515872068,51.439251147698464,111,Binnenstad
-20230063027,2023,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Europalaan,5.482743539365715,51.45727600941349,432,Oude Toren
+20230063027,2023,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Europalaan,5.482743539365715,51.457276009413484,432,Oude Toren
 20230041727,2023,property_damage_only,Onbekend,Rechte weg,50.0,Nieuwe Emmasingel,5.476304420393033,51.43896676721226,111,Binnenstad
 20230041762,2023,property_damage_only,Onbekend,,,Veldm Montgomerylaan,5.476727020581608,51.44430267172891,114,Fellenoord
 20240136547,2024,injury,Flank,"Kruispunt, 3 takken",50.0,Felix Timmermanslaan,5.483742198089101,51.41849112212625,223,Genneperzijde
 20240023924,2024,injury,Onbekend,"Kruispunt, 4 takken",30.0,Lichtenberg,5.446273718779391,51.41599881518917,732,Hanevoet
 20230110688,2023,property_damage_only,Onbekend,,30.0,Jan van Riebeecklaan,5.515806696183404,51.43884774037529,322,Doornakkers-Oost
-20240013984,2024,injury,Eenzijdig,Rechte weg,50.0,Diekirchlaan,5.475289621739053,51.47111953790176,515,Winkelcentrum
+20240013984,2024,injury,Eenzijdig,Rechte weg,50.0,Diekirchlaan,5.475289621739053,51.471119537901764,515,Winkelcentrum
 20240016186,2024,injury,Flank,"Kruispunt, 4 takken",30.0,Granaat,5.467244533147235,51.487555729853405,534,Blixembosch-Oost
 20240025001,2024,injury,Flank,"Kruispunt, 4 takken",30.0,Oude Bossche Baan,5.453170473616082,51.47180726387155,511,Driehoeksbos
 20230030259,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Veldm Montgomerylaan,5.476718076288322,51.4573339763095,425,Rapenland
@@ -1209,7 +1209,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240072552,2024,injury,Frontaal,Rechte weg,50.0,Anthony Fokkerweg,5.410772068054904,51.460391372092054,626,Wielewaal
 20220228945,2022,property_damage_only,Onbekend,,30.0,Kanaaldijk-Noord,5.50841083549135,51.43461957133496,321,Doornakkers-West
 20220229208,2022,injury,Flank,Rechte weg,50.0,Vestdijk,5.4830600693690235,51.437302945319054,111,Binnenstad
-20220229903,2022,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Boschdijk,5.461599959802379,51.45462596996624,421,Woensel-West
+20220229903,2022,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Boschdijk,5.461599959802379,51.454625969966244,421,Woensel-West
 20220229385,2022,property_damage_only,Flank,"Kruispunt, 4 takken",,Offenbachlaan,5.4534826294642,51.42262127239647,722,Blaarthem
 20240147604,2024,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Anthony Fokkerweg,5.4420987133254775,51.47390046538505,521,Kerkdorp Acht
 20240136554,2024,property_damage_only,Flank,Rotonde,50.0,Kasteellaan,5.442375227631755,51.42698301492143,731,Genderbeemd
@@ -1240,7 +1240,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240147067,2024,injury,Flank,"Kruispunt, 4 takken",50.0,Vonderweg,5.469586398119466,51.44149625526809,113,Witte Dame
 20240147264,2024,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Offenbachlaan,5.451562198268836,51.42087889386438,725,"Bennekel-West, Gagelbosch"
 20240156014,2024,property_damage_only,Onbekend,Rotonde,50.0,Meerhovendreef,5.394332750572861,51.434682895839885,635,Waterrijk
-20230110310,2023,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Langendijk,5.432553169309314,51.42867506118317,621,Hurk
+20230110310,2023,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Langendijk,5.432553169309314,51.428675061183164,621,Hurk
 20230030931,2023,property_damage_only,Onbekend,"Kruispunt, 3 takken",50.0,Lichtenberg,5.446273718779391,51.41599881518917,732,Hanevoet
 20230070163,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Barrierweg,5.463548574606258,51.4603021085487,423,Barrier
 20240033330,2024,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Bosrand,5.411287230219321,51.4441545724742,634,Zandrijk
@@ -1251,7 +1251,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20220187993,2022,property_damage_only,Frontaal,"Kruispunt, 4 takken",30.0,Kennedyplein,5.480412655666692,51.44459099175867,114,Fellenoord
 20240092182,2024,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Geldropseweg,5.50317163111836,51.43141410436127,,
 20240092353,2024,property_damage_only,Frontaal,Rechte weg,50.0,Vonderweg,5.469467104514787,51.44156630929386,612,Philipsdorp
-20240043988,2024,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Nachtegaallaan,5.4857560305143265,51.43746288683872,211,Irisbuurt
+20240043988,2024,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Nachtegaallaan,5.4857560305143265,51.437462886838716,211,Irisbuurt
 20240101510,2024,property_damage_only,Los voorwerp,Rechte weg,50.0,Keverberg,5.4412786235538455,51.41632847517845,732,Hanevoet
 20240102208,2024,property_damage_only,Flank,Rechte weg,50.0,Mispelhoefstraat,5.415556367304444,51.474464308819584,628,Mispelhoef
 20230063540,2023,property_damage_only,Geparkeerd voertuig,Rechte weg,50.0,van Thienenlaan,5.463838178862014,51.45662026560667,422,Kronehoef
@@ -1285,7 +1285,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20230042561,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Ruysdaelbaan,5.50425151357858,51.436538646144214,312,Lakerlopen
 20230051568,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Leostraat,5.492406034361594,51.42416854275691,216,Bloemenplein
 20230042957,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Hertog Jan I Laan,5.464940825377941,51.43270031121539,713,Hagenkamp
-20220228381,2022,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Schouwenlaan,5.470259058652303,51.47914031662573,532,Tempel
+20220228381,2022,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Schouwenlaan,5.470259058652303,51.479140316625724,532,Tempel
 20240146773,2024,property_damage_only,Frontaal,"Kruispunt, 3 takken",30.0,Sterrenlaan,5.505858884388414,51.46777396528161,542,Luytelaer
 20230032832,2023,property_damage_only,Onbekend,"Kruispunt, 3 takken",30.0,Planetenlaan,5.492193449052035,51.4717687653904,541,Eckart
 20230033726,2023,injury,Onbekend,Rechte weg,30.0,Het Eeuwsel,5.490629978003025,51.45149620979338,115,TU-terrein
@@ -1308,7 +1308,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20220188095,2022,property_damage_only,Onbekend,Rechte weg,30.0,Pisanostraat,5.47523417978995,51.46027249401623,425,Rapenland
 20240092071,2024,property_damage_only,Onbekend,Rechte weg,50.0,Tarasconweg,5.442926350681469,51.47810872919479,522,Achtse Barrier-Gunterslaer
 20240043889,2024,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Strijpsestraat,5.452873185014278,51.44091146690439,615,Schoot
-20240091868,2024,property_damage_only,Kop/staart,"Kruispunt, 3 takken",30.0,Zandpad,5.410979935828065,51.44396943060429,640,Meerrijk
+20240091868,2024,property_damage_only,Kop/staart,"Kruispunt, 3 takken",30.0,Zandpad,5.410979935828065,51.443969430604284,640,Meerrijk
 20230062482,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Buitendreef,5.479460286345556,51.49323298348261,534,Blixembosch-Oost
 20230050980,2023,property_damage_only,Frontaal,"Kruispunt, 3 takken",50.0,Meerkollaan,5.503284255707684,51.44316391731141,311,Villapark
 20230041666,2023,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Winston Churchilllaan,5.47294919860558,51.4675847098229,515,Winkelcentrum
@@ -1323,7 +1323,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240146861,2024,property_damage_only,Flank,Rechte weg,50.0,Noord Brabantlaan,5.429486064800148,51.43773338067313,621,Hurk
 20240156582,2024,property_damage_only,Kop/staart,Rechte weg,50.0,Hendrik de Keyzerplein,5.457094368891955,51.46307887586762,423,Barrier
 20240023984,2024,property_damage_only,Flank,"Kruispunt, 4 takken",70.0,Boschdijk,5.44245709636818,51.473729832165006,426,Vredeoord
-20240024170,2024,injury,Flank,"Kruispunt, 3 takken",50.0,Achtseweg Zuid,5.456671498529389,51.44984330423424,625,Zwaanstraat
+20240024170,2024,injury,Flank,"Kruispunt, 3 takken",50.0,Achtseweg Zuid,5.456671498529389,51.449843304234236,625,Zwaanstraat
 20230032992,2023,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Herman Gorterlaan,5.480713967475859,51.41695001588692,223,Genneperzijde
 20230030400,2023,property_damage_only,Onbekend,Rechte weg,50.0,Keizersgracht,5.476521823957244,51.43764120156094,112,Bergen
 20230071924,2023,property_damage_only,Flank,Rechte weg,30.0,Seinelaan,5.434870771595883,51.48749119360149,523,Achtse Barrier-Spaaihoef
@@ -1359,7 +1359,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20230098945,2023,property_damage_only,Flank,Rechte weg,30.0,Meerenakkerweg,5.428921741965002,51.429133947497135,621,Hurk
 20230099147,2023,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Bagelaarstraat,5.505994257009937,51.43646556847595,321,Doornakkers-West
 20220068173,2022,injury,Voetganger,"Kruispunt, 4 takken",,Lardinoisstraat,5.475694121311521,51.44353565728562,114,Fellenoord
-20220068210,2022,injury,Flank,"Kruispunt, 4 takken",30.0,Karel de Grotelaan,5.44749208562202,51.42049282803936,721,Genderdal
+20220068210,2022,injury,Flank,"Kruispunt, 4 takken",30.0,Karel de Grotelaan,5.44749208562202,51.420492828039364,721,Genderdal
 20220089393,2022,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Wenckenbachstraat,5.462851002202069,51.45323195572486,421,Woensel-West
 20220068350,2022,injury,Flank,"Kruispunt, 4 takken",50.0,Thorvaldsenlaan,5.470470024380898,51.459452487059586,425,Rapenland
 20220111827,2022,property_damage_only,Eenzijdig,"Kruispunt, 4 takken",30.0,PSV-laan,5.469749665102675,51.44176782155632,612,Philipsdorp
@@ -1393,7 +1393,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20220131761,2022,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Solmsweg,5.463068423096494,51.43055920348788,712,Oude Spoorbaan
 20220159568,2022,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Breitnerstraat,5.491771671572521,51.43607092078573,211,Irisbuurt
 20240044008,2024,property_damage_only,Eenzijdig,Rechte weg,30.0,Grasvogel,5.413122906757305,51.441666564323505,633,Grasrijk
-20230062110,2023,property_damage_only,Frontaal,Rechte weg,50.0,Vestdijk,5.481292413633616,51.43926336236037,111,Binnenstad
+20230062110,2023,property_damage_only,Frontaal,Rechte weg,50.0,Vestdijk,5.481292413633616,51.439263362360364,111,Binnenstad
 20230063476,2023,injury,Flank,Rotonde,50.0,Ruysdaelbaan,5.512038236393948,51.43578264494129,321,Doornakkers-West
 20230054346,2023,injury,Eenzijdig,Rechte weg,30.0,Hoogstraat,5.471416181842972,51.433430734284165,712,Oude Spoorbaan
 20230042990,2023,property_damage_only,Frontaal,Bocht,30.0,Kaartmakersring,5.517076713233981,51.445500403194146,333,"Muschberg, Geestenberg"
@@ -1410,7 +1410,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20220112478,2022,property_damage_only,Flank,"Kruispunt, 3 takken",70.0,Hoogstraat,5.4639932321287095,51.42751082315689,722,Blaarthem
 20220028910,2022,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Kasteellaan,5.444691852383145,51.41996463691187,732,Hanevoet
 20220111185,2022,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Fuutlaan,5.501462336438046,51.444188598969575,311,Villapark
-20220112258,2022,property_damage_only,Eenzijdig,Rechte weg,30.0,Zeebruggestraat,5.4752076438493615,51.47769769481389,532,Tempel
+20220112258,2022,property_damage_only,Eenzijdig,Rechte weg,30.0,Zeebruggestraat,5.4752076438493615,51.477697694813884,532,Tempel
 20230009384,2023,property_damage_only,Flank,"Kruispunt, 4 takken",70.0,Insulindelaan,5.50406584820377,51.441732960091294,321,Doornakkers-West
 20220149088,2022,property_damage_only,Onbekend,Rechte weg,50.0,Charles Dickenslaan,5.475427420397838,51.48565846659719,534,Blixembosch-Oost
 20240101481,2024,property_damage_only,Voetganger,Rechte weg,50.0,Fellenoord,5.4772093011129845,51.444277910993115,114,Fellenoord
@@ -1438,7 +1438,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20220131759,2022,property_damage_only,Frontaal,"Kruispunt, 4 takken",,Anthony Fokkerweg,5.417946852068315,51.46415068670237,628,Mispelhoef
 20240091968,2024,property_damage_only,Kop/staart,"Kruispunt, 4 takken",50.0,Philitelaan,5.462782249468565,51.444992533953226,612,Philipsdorp
 20240092413,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Vestdijk,5.47852239261807,51.44127297364816,111,Binnenstad
-20240044486,2024,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Frederiklaan,5.464293279547247,51.44240351057024,612,Philipsdorp
+20240044486,2024,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Frederiklaan,5.464293279547247,51.442403510570244,612,Philipsdorp
 20240083673,2024,injury,Onbekend,Rechte weg,50.0,Neckerspoel,5.479510720863275,51.44451649646746,114,Fellenoord
 20240102464,2024,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Zeelsterstraat,5.440510081143624,51.43733216629641,622,Het Ven
 20240101397,2024,property_damage_only,Onbekend,,30.0,Gestelsestraat,5.470615847432341,51.42904118277477,711,Schrijversbuurt
@@ -1446,7 +1446,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20220228192,2022,property_damage_only,Onbekend,Rechte weg,50.0,Keizersgracht,5.475318470417475,51.43820358743978,112,Bergen
 20220228405,2022,property_damage_only,Geparkeerd voertuig,Rechte weg,50.0,Luchthavenweg,5.3929119061942075,51.45666811473576,637,Flight Forum
 20220229946,2022,property_damage_only,Flank,Rotonde,50.0,Beukenlaan,5.4564433447868055,51.44966695656308,625,Zwaanstraat
-20240137143,2024,property_damage_only,Flank,Rechte weg,30.0,Thorvaldsenlaan,5.472871327199111,51.45960366524075,425,Rapenland
+20240137143,2024,property_damage_only,Flank,Rechte weg,30.0,Thorvaldsenlaan,5.472871327199111,51.459603665240756,425,Rapenland
 20240136880,2024,injury,Onbekend,"Kruispunt, 4 takken",50.0,Zeelsterstraat,5.449901388548701,51.4395713877002,622,Het Ven
 20240136882,2024,property_damage_only,Onbekend,,30.0,Vlokhovenseweg,5.483074788381732,51.47176548320626,516,Vlokhoven
 20240147089,2024,injury,Onbekend,"Kruispunt, 4 takken",50.0,P Czn Hooftlaan,5.482730116392638,51.432910386284185,213,Elzent-Noord
@@ -1483,7 +1483,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20230099796,2023,property_damage_only,Onbekend,"Kruispunt, 3 takken",30.0,Stationsweg,5.482950956355107,51.44204781134209,111,Binnenstad
 20230100577,2023,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Genderstraatje,5.480974415608409,51.43949036733557,111,Binnenstad
 20220089853,2022,property_damage_only,Vast voorwerp,Rechte weg,,Beukenlaan,5.456176487111526,51.449390380710376,616,Strijp S
-20220067625,2022,injury,Flank,Rechte weg,30.0,Vestdijk,5.481292413633616,51.43926336236037,111,Binnenstad
+20220067625,2022,injury,Flank,Rechte weg,30.0,Vestdijk,5.481292413633616,51.439263362360364,111,Binnenstad
 20220110905,2022,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Stationsweg,5.484898878156803,51.44231531291774,115,TU-terrein
 20220112368,2022,injury,Frontaal,"Kruispunt, 3 takken",50.0,Koestraat,5.507056624790507,51.44373136962223,321,Doornakkers-West
 20230110491,2023,property_damage_only,Onbekend,,50.0,Tongelresestraat,5.506821257003397,51.44160952190326,321,Doornakkers-West
@@ -1496,7 +1496,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240102162,2024,property_damage_only,Flank,Rechte weg,30.0,Oirschotsedijk,5.420590643622257,51.46302602039866,,
 20240073095,2024,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Insulindelaan,5.50367113527045,51.44308037688047,321,Doornakkers-West
 20220228233,2022,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Kanaaldijk-Noord,5.5045945655175474,51.43503040653647,321,Doornakkers-West
-20220228444,2022,property_damage_only,Onbekend,"Kruispunt, 3 takken",50.0,Sassenlaan,5.494557909520278,51.4156639522276,224,Roosten
+20220228444,2022,property_damage_only,Onbekend,"Kruispunt, 3 takken",50.0,Sassenlaan,5.494557909520278,51.415663952227604,224,Roosten
 20220229234,2022,property_damage_only,Onbekend,Rechte weg,60.0,Urkhovenseweg,5.528379413200729,51.444661683063174,333,"Muschberg, Geestenberg"
 20240137410,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Veldm Montgomerylaan,5.476767975715641,51.457098051855496,422,Kronehoef
 20240146761,2024,property_damage_only,Los voorwerp,"Kruispunt, 3 takken",30.0,Kasteellaan,5.4448582413524855,51.42095427388705,731,Genderbeemd
@@ -1505,7 +1505,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240002142,2024,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Bergstraat,5.477091875070812,51.43611682974589,112,Bergen
 20240013813,2024,injury,Flank,"Kruispunt, 3 takken",50.0,Wattstraat,5.4584216976462345,51.45190230297519,421,Woensel-West
 20240015845,2024,property_damage_only,Flank,"Kruispunt, 3 takken",30.0,Korianderstraat,5.497344810955611,51.42100498119671,237,Kruidenbuurt
-20230033393,2023,property_damage_only,Onbekend,"Kruispunt, 3 takken",30.0,Biarritzplein,5.4499969984680146,51.48351571525619,522,Achtse Barrier-Gunterslaer
+20230033393,2023,property_damage_only,Onbekend,"Kruispunt, 3 takken",30.0,Biarritzplein,5.4499969984680146,51.483515715256196,522,Achtse Barrier-Gunterslaer
 20230032753,2023,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Fellenoordpad,5.4776385323477985,51.44383769499652,114,Fellenoord
 20230079350,2023,property_damage_only,Frontaal,"Kruispunt, 4 takken",50.0,Zeelsterstraat,5.431959802723953,51.43872360349488,622,Het Ven
 20230099769,2023,property_damage_only,Onbekend,"Kruispunt, 4 takken",,Gascognehof,5.4513251575098645,51.485262690982914,522,Achtse Barrier-Gunterslaer
@@ -1587,7 +1587,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240023797,2024,property_damage_only,Flank,Rechte weg,30.0,Oldengaarde,5.438744182340307,51.41543434385927,732,Hanevoet
 20240025130,2024,injury,Onbekend,Rechte weg,50.0,Achtseweg Noord,5.41861459699828,51.47193947602621,628,Mispelhoef
 20230033064,2023,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Barrierweg,5.463658305338377,51.46035233623882,423,Barrier
-20230031303,2023,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Veluwelaan,5.4637841438849675,51.47639781513123,531,Woenselse Heide
+20230031303,2023,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Veluwelaan,5.4637841438849675,51.476397815131236,531,Woenselse Heide
 20230032800,2023,property_damage_only,Flank,"Kruispunt, 3 takken",50.0,Planetenlaan,5.49244738017449,51.471749742835925,541,Eckart
 20230079274,2023,property_damage_only,Frontaal,Rechte weg,50.0,Veldm Montgomerylaan,5.478104505434938,51.45187204759387,414,Woenselse Watermolen
 20220112015,2022,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Dirk Boutslaan,5.502797347958101,51.43351343035194,211,Irisbuurt
@@ -1600,7 +1600,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20230050939,2023,injury,Flank,"Kruispunt, 3 takken",30.0,Trompstraat,5.469784799716095,51.4511053891869,412,Hemelrijken
 20230042999,2023,injury,Flank,"Kruispunt, 4 takken",50.0,Marathonloop,5.449394580199935,51.47646760297267,511,Driehoeksbos
 20220229464,2022,property_damage_only,Flank,"Kruispunt, 4 takken",30.0,Glorieuxlaan,5.497265607930888,51.43052255808401,214,Tuindorp
-20220229636,2022,property_damage_only,Geparkeerd voertuig,Rechte weg,30.0,Hendrik Staetslaan,5.462339261441386,51.46255568701672,424,Mensfort
+20220229636,2022,property_damage_only,Geparkeerd voertuig,Rechte weg,30.0,Hendrik Staetslaan,5.462339261441386,51.462555687016724,424,Mensfort
 20220228544,2022,property_damage_only,Flank,Rechte weg,50.0,Daumierstraat,5.4739374308581406,51.46088776146935,425,Rapenland
 20220229373,2022,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Hoogstraat,5.456437607105928,51.42190395208505,722,Blaarthem
 20240136998,2024,property_damage_only,Flank,Rechte weg,,Winston Churchilllaan,5.472745620192775,51.467322065113464,425,Rapenland
@@ -1622,7 +1622,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20240014037,2024,property_damage_only,Flank,Rotonde,50.0,Mercuriuslaan,5.492856286787513,51.47542138185423,541,Eckart
 20220131290,2022,property_damage_only,Onbekend,"Kruispunt, 4 takken",50.0,Fransebaan,5.4372240181126426,51.485167689549506,523,Achtse Barrier-Spaaihoef
 20220187822,2022,injury,Flank,Rechte weg,50.0,Aalsterweg,5.482781430879476,51.412950908627586,225,Eikenburg
-20220150304,2022,property_damage_only,Vast voorwerp,Rechte weg,,Willemstraat,5.47193520084187,51.43844550322749,113,Witte Dame
+20220150304,2022,property_damage_only,Vast voorwerp,Rechte weg,,Willemstraat,5.47193520084187,51.438445503227484,113,Witte Dame
 20240092792,2024,property_damage_only,Flank,Rechte weg,30.0,Beukenlaan,5.44834396031936,51.44483914622276,622,Het Ven
 20240043770,2024,property_damage_only,Frontaal,"Kruispunt, 4 takken",50.0,Floralaan West,5.4838235675499005,51.41665677862141,222,Gerardusplein
 20240074501,2024,property_damage_only,Onbekend,"Kruispunt, 3 takken",30.0,Narcisstraat,5.490648384191239,51.425390370839615,216,Bloemenplein
@@ -1638,7 +1638,7 @@ accident_id,accident_year,accident_outcome_standardized,accident_nature,road_sit
 20220229239,2022,property_damage_only,Flank,"Kruispunt, 4 takken",,Den Dolech,5.483318356820569,51.450101230285426,115,TU-terrein
 20220229275,2022,injury,Frontaal,Rechte weg,30.0,Winston Churchilllaan,5.4835269915267695,51.46768850386062,516,Vlokhoven
 20240146650,2024,property_damage_only,Flank,Rechte weg,30.0,Emmasingel,5.475052462718466,51.43842886502505,111,Binnenstad
-20240146918,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Marathonloop,5.449244094709778,51.47665822571464,522,Achtse Barrier-Gunterslaer
+20240146918,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,Marathonloop,5.449244094709778,51.476658225714644,522,Achtse Barrier-Gunterslaer
 20240001990,2024,injury,Onbekend,"Kruispunt, 4 takken",70.0,Insulindelaan,5.50406584820377,51.441732960091294,321,Doornakkers-West
 20240156600,2024,injury,Onbekend,"Kruispunt, 4 takken",50.0,Sterrenlaan,5.48635035711663,51.467816425301216,516,Vlokhoven
 20240023885,2024,property_damage_only,Flank,"Kruispunt, 4 takken",50.0,2e Lieven de Keylaan,5.456219163427371,51.462738083066874,423,Barrier
