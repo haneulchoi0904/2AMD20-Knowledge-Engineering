@@ -1,0 +1,8 @@
+facility_id,name,address,type,capacity,lon,lat,BUURTCODE,BUURTNAAM
+2,Fietsenstalling Winkelcentrum WoensXL,"Winkelcentrum Woensel 500-510, 5625 AA Eindhoven",Gratis fietsenstalling met toezicht,200.0,5.47328846,51.46978532,515,Winkelcentrum
+7,"Pop-up fietsenstalling Mercado, tijdelijke stalling zonder toezicht | 14 juni t/m 13 juli 2024","Smalle Haven 109, 5611 EH Eindhoven",Gratis fietsenstalling met toezicht,,5.481647,51.436996,111,Binnenstad
+5,Fietsenstalling NS-station noordzijde,"Neckerspoel, 5611 AD Eindhoven",Bewaakte NS stalling (tegen betaling),200.0,5.47830684,51.44333305,114,Fellenoord
+1,Fietsenstalling Heuvel,"Ten Hagestraat 14, 5611 EJ Eindhoven",Gratis fietsenstalling met toezicht,900.0,5.48045823,51.43785041,111,Binnenstad
+3,Fietsenstalling 18 Septemberplein,"18 Septemberplein, 5611 AK, Eindhoven",Gratis fietsenstalling met toezicht,1400.0,5.47707071,51.44122886,111,Binnenstad
+4,Fietsenstalling NS-station zuidzijde,"Stationsplein 22, 5611 AC Eindhoven",Bewaakte NS stalling (tegen betaling),5000.0,5.48039389,51.44242743,111,Binnenstad
+6,"Pop-up fietsenstalling Kerkstraat, tijdelijke stalling zonder toezicht | 14 juni t/m 13 juli 2024","Kerkstraat, 5611 GH Eindhoven",Gratis fietsenstalling met toezicht,,5.478883,51.437059,111,Binnenstad
